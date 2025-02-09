@@ -60,5 +60,5 @@ SHOW TABLES;
 Please modify the `config.properties` file and update the following:
 ```
 db.url=jdbc:mysql://localhost:3306/GamingSupplies
-db.username=your_mysql_username
-db.password=your_mysql_password
+db.username=your_username
+db.password=your_password
