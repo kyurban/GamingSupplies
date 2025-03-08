@@ -15,8 +15,6 @@ The project was developed using Java and demonstrates object-oriented programmin
 - Product management.  
 - Shopping cart manangement.  
 
----
-
 ## Features  
 
 - View a list of gaming products.  
@@ -30,8 +28,6 @@ The project was developed using Java and demonstrates object-oriented programmin
 - Add a user authentication system.
 - Add sorting/filtering.
 - Implement UI functionality.
-
----
 
 ## Database Setup
 
